@@ -20,7 +20,7 @@ The examples use the `sklearn` library and demonstrate how to apply these techni
 
 Before you begin, ensure you have the following installed:
 
-- Python 3.x
+- Python
 - Jupyter Notebook
 
 ## Usage
