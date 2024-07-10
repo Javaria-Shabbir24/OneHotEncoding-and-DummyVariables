@@ -37,7 +37,7 @@ Each notebook contains code examples and explanations of the respective encoding
 
 ### Label Encoding
 
-This notebook demonstrates how to convert categorical labels into numerical values using `LabelEncoder` from `sklearn`.
+This notebook demonstrates how to convert categorical labels into numerical values using `LabelEncoder` from `sklearn`. 
 
 ### One Hot Encoding
 
